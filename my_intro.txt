@@ -1,5 +1,6 @@
-Name:             Cristian E. Nuno
-Email:            cristian.nuno@flatironschool.com
-Favorite Place:   Hakone, Japan
-Favorite Food:    Lou Malnati's Deep Dish Pizza
-Astrology sign:   Cancer
+Name:             John Naujoks
+Email:            john.naujoks@flatironschool.com
+Favorite Place:   Cleveland, OH
+Favorite Food:    Chicken wings
+Astrology sign:   Gemini
+Favorite movie: 8 1/2
